@@ -10,7 +10,6 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Prithvi-Veeresh&style=for-the-badge&color=D4AF37&labelColor=0B0E14&label=PROFILE+VIEWS)](https://github.com/Prithvi-Veeresh)
-[![GitHub Followers](https://img.shields.io/github/followers/Prithvi-Veeresh?style=for-the-badge&logo=github&color=D4AF37&labelColor=0B0E14)](https://github.com/Prithvi-Veeresh)
 
 </div>
 
